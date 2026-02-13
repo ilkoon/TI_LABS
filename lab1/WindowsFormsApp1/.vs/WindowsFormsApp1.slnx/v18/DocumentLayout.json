@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilkoon1\\OwnFloader\\bsuir\\TI\\TI_LABS\\lab1\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D326B58-64F8-44A9-82C5-7B312AC51731}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\ilkoon1\\ownfloader\\bsuir\\ti\\ti_labs\\lab1\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D326B58-64F8-44A9-82C5-7B312AC51731}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D326B58-64F8-44A9-82C5-7B312AC51731}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\ilkoon1\\ownfloader\\bsuir\\ti\\ti_labs\\lab1\\windowsformsapp1\\windowsformsapp1\\vigener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D326B58-64F8-44A9-82C5-7B312AC51731}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vigener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D326B58-64F8-44A9-82C5-7B312AC51731}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ilkoon1\\OwnFloader\\bsuir\\TI\\TI_LABS\\lab1\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D326B58-64F8-44A9-82C5-7B312AC51731}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D326B58-64F8-44A9-82C5-7B312AC51731}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\ilkoon1\\ownfloader\\bsuir\\ti\\ti_labs\\lab1\\windowsformsapp1\\windowsformsapp1\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D326B58-64F8-44A9-82C5-7B312AC51731}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D326B58-64F8-44A9-82C5-7B312AC51731}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ilkoon1\\OwnFloader\\bsuir\\TI\\TI_LABS\\lab1\\WindowsFormsApp1\\windowsformsapp1\\railwayfence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D326B58-64F8-44A9-82C5-7B312AC51731}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\railwayfence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D326B58-64F8-44A9-82C5-7B312AC51731}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\ilkoon1\\ownfloader\\bsuir\\ti\\ti_labs\\lab1\\windowsformsapp1\\windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D326B58-64F8-44A9-82C5-7B312AC51731}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ilkoon1\\OwnFloader\\bsuir\\TI\\TI_LABS\\lab1\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ilkoon1\\OwnFloader\\bsuir\\TI\\TI_LABS\\lab1\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswF4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T16:20:04.469Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ilkoon1\\OwnFloader\\bsuir\\TI\\TI_LABS\\lab1\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ilkoon1\\OwnFloader\\bsuir\\TI\\TI_LABS\\lab1\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:28:53.145Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ilkoon1\\OwnFloader\\bsuir\\TI\\TI_LABS\\lab1\\WindowsFormsApp1\\WindowsFormsApp1\\FileHandler.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FileHandler.cs",
+              "ToolTip": "C:\\Users\\ilkoon1\\OwnFloader\\bsuir\\TI\\TI_LABS\\lab1\\WindowsFormsApp1\\WindowsFormsApp1\\FileHandler.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\FileHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T19:30:41.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vigener.cs",
+              "DocumentMoniker": "C:\\Users\\ilkoon1\\OwnFloader\\bsuir\\TI\\TI_LABS\\lab1\\WindowsFormsApp1\\WindowsFormsApp1\\Vigener.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Vigener.cs",
+              "ToolTip": "C:\\Users\\ilkoon1\\OwnFloader\\bsuir\\TI\\TI_LABS\\lab1\\WindowsFormsApp1\\WindowsFormsApp1\\Vigener.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Vigener.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwHgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T16:56:23.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RailwayFence.cs",
+              "DocumentMoniker": "C:\\Users\\ilkoon1\\OwnFloader\\bsuir\\TI\\TI_LABS\\lab1\\WindowsFormsApp1\\WindowsFormsApp1\\RailwayFence.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\RailwayFence.cs",
+              "ToolTip": "C:\\Users\\ilkoon1\\OwnFloader\\bsuir\\TI\\TI_LABS\\lab1\\WindowsFormsApp1\\WindowsFormsApp1\\RailwayFence.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\RailwayFence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:13:05.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ilkoon1\\OwnFloader\\bsuir\\TI\\TI_LABS\\lab1\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ilkoon1\\OwnFloader\\bsuir\\TI\\TI_LABS\\lab1\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAADgv7oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T17:17:12.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
