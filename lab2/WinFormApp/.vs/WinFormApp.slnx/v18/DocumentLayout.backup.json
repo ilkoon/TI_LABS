@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ilkoon1\\OwnFloader\\bsuir\\TI\\TI_LABS\\lab2\\WinFormApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4EAD160-7FC4-9BFF-B8C1-E9A14045DED4}|WinFormApp\\WinFormApp.csproj|c:\\users\\ilkoon1\\ownfloader\\bsuir\\ti\\ti_labs\\lab2\\winformapp\\winformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4EAD160-7FC4-9BFF-B8C1-E9A14045DED4}|WinFormApp\\WinFormApp.csproj|solutionrelative:winformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4EAD160-7FC4-9BFF-B8C1-E9A14045DED4}|WinFormApp\\WinFormApp.csproj|c:\\users\\ilkoon1\\ownfloader\\bsuir\\ti\\ti_labs\\lab2\\winformapp\\winformapp\\streamcipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4EAD160-7FC4-9BFF-B8C1-E9A14045DED4}|WinFormApp\\WinFormApp.csproj|solutionrelative:winformapp\\streamcipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EAD160-7FC4-9BFF-B8C1-E9A14045DED4}|WinFormApp\\WinFormApp.csproj|c:\\users\\ilkoon1\\ownfloader\\bsuir\\ti\\ti_labs\\lab2\\winformapp\\winformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EAD160-7FC4-9BFF-B8C1-E9A14045DED4}|WinFormApp\\WinFormApp.csproj|solutionrelative:winformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4EAD160-7FC4-9BFF-B8C1-E9A14045DED4}|WinFormApp\\WinFormApp.csproj|C:\\Users\\ilkoon1\\OwnFloader\\bsuir\\TI\\TI_LABS\\lab2\\WinFormApp\\winformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ilkoon1\\OwnFloader\\bsuir\\TI\\TI_LABS\\lab2\\WinFormApp\\WinFormApp\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormApp\\Form1.cs",
@@ -52,8 +52,7 @@
               "RelativeToolTip": "WinFormApp\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T19:42:04.505Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -61,13 +60,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StreamCipher.cs",
               "DocumentMoniker": "C:\\Users\\ilkoon1\\OwnFloader\\bsuir\\TI\\TI_LABS\\lab2\\WinFormApp\\WinFormApp\\StreamCipher.cs",
               "RelativeDocumentMoniker": "WinFormApp\\StreamCipher.cs",
               "ToolTip": "C:\\Users\\ilkoon1\\OwnFloader\\bsuir\\TI\\TI_LABS\\lab2\\WinFormApp\\WinFormApp\\StreamCipher.cs",
               "RelativeToolTip": "WinFormApp\\StreamCipher.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAIwBoAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T21:40:55.046Z",
               "EditorCaption": ""
@@ -82,8 +81,7 @@
               "RelativeToolTip": "WinFormApp\\FileHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T09:37:12.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T09:37:12.237Z"
             }
           ]
         }

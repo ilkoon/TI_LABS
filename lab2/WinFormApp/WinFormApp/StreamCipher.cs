@@ -34,8 +34,8 @@ namespace WinFormApp
 
                 // Сдвиг влево, младший бит - самый правый
                 bool bit32 = BitReg[0];      
-                bool bit28 = BitReg[3];      
-                bool bit27 = BitReg[4];      
+                bool bit28 = BitReg[4];      
+                bool bit27 = BitReg[5];      
                 bool bit1 = BitReg[31];      
 
                 bool feedback = bit32 ^ bit28 ^ bit27 ^ bit1;
