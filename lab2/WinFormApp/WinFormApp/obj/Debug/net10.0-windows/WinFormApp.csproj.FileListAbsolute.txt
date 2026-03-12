@@ -1,0 +1,17 @@
+C:\Users\ilkoon1\OwnFloader\bsuir\TI\TI_LABS\lab2\WinFormApp\WinFormApp\bin\Debug\net10.0-windows\WinFormApp.exe
+C:\Users\ilkoon1\OwnFloader\bsuir\TI\TI_LABS\lab2\WinFormApp\WinFormApp\bin\Debug\net10.0-windows\WinFormApp.deps.json
+C:\Users\ilkoon1\OwnFloader\bsuir\TI\TI_LABS\lab2\WinFormApp\WinFormApp\bin\Debug\net10.0-windows\WinFormApp.runtimeconfig.json
+C:\Users\ilkoon1\OwnFloader\bsuir\TI\TI_LABS\lab2\WinFormApp\WinFormApp\bin\Debug\net10.0-windows\WinFormApp.dll
+C:\Users\ilkoon1\OwnFloader\bsuir\TI\TI_LABS\lab2\WinFormApp\WinFormApp\bin\Debug\net10.0-windows\WinFormApp.pdb
+C:\Users\ilkoon1\OwnFloader\bsuir\TI\TI_LABS\lab2\WinFormApp\WinFormApp\obj\Debug\net10.0-windows\WinFormApp.MainForm.resources
+C:\Users\ilkoon1\OwnFloader\bsuir\TI\TI_LABS\lab2\WinFormApp\WinFormApp\obj\Debug\net10.0-windows\WinFormApp.csproj.GenerateResource.cache
+C:\Users\ilkoon1\OwnFloader\bsuir\TI\TI_LABS\lab2\WinFormApp\WinFormApp\obj\Debug\net10.0-windows\WinFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkoon1\OwnFloader\bsuir\TI\TI_LABS\lab2\WinFormApp\WinFormApp\obj\Debug\net10.0-windows\WinFormApp.AssemblyInfoInputs.cache
+C:\Users\ilkoon1\OwnFloader\bsuir\TI\TI_LABS\lab2\WinFormApp\WinFormApp\obj\Debug\net10.0-windows\WinFormApp.AssemblyInfo.cs
+C:\Users\ilkoon1\OwnFloader\bsuir\TI\TI_LABS\lab2\WinFormApp\WinFormApp\obj\Debug\net10.0-windows\WinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\ilkoon1\OwnFloader\bsuir\TI\TI_LABS\lab2\WinFormApp\WinFormApp\obj\Debug\net10.0-windows\WinFormApp.sourcelink.json
+C:\Users\ilkoon1\OwnFloader\bsuir\TI\TI_LABS\lab2\WinFormApp\WinFormApp\obj\Debug\net10.0-windows\WinFormApp.dll
+C:\Users\ilkoon1\OwnFloader\bsuir\TI\TI_LABS\lab2\WinFormApp\WinFormApp\obj\Debug\net10.0-windows\refint\WinFormApp.dll
+C:\Users\ilkoon1\OwnFloader\bsuir\TI\TI_LABS\lab2\WinFormApp\WinFormApp\obj\Debug\net10.0-windows\WinFormApp.pdb
+C:\Users\ilkoon1\OwnFloader\bsuir\TI\TI_LABS\lab2\WinFormApp\WinFormApp\obj\Debug\net10.0-windows\WinFormApp.genruntimeconfig.cache
+C:\Users\ilkoon1\OwnFloader\bsuir\TI\TI_LABS\lab2\WinFormApp\WinFormApp\obj\Debug\net10.0-windows\ref\WinFormApp.dll
