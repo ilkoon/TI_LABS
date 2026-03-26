@@ -49,6 +49,33 @@ namespace WinFormApp
             }
         }
 
+        public void CreateBitKeyRightShift(int length)
+        {
+            BitKey = new BitArray(length);
+
+            for (int i = 0; i < length; i++)
+            {
+                BitKey[i] = BitReg[31];
+
+                // Сдвиг вправо, младший бит - самый левый
+                bool bit32 = BitReg[31];
+                bool bit28 = BitReg[27];
+                bool bit27 = BitReg[26];
+                bool bit1 = BitReg[0];
+
+
+                bool feedback = bit32 ^ bit28 ^ bit27 ^ bit1;
+
+                for (int j = BitReg.Length - 1; j > 0; j--)
+                {
+                    BitReg[j] = BitReg[j - 1];
+                }
+
+                BitReg[0] = feedback;
+            }
+        }
+
+
         public void Cipher()
         {
             CipherBit = BitKey.Xor(PlainText);

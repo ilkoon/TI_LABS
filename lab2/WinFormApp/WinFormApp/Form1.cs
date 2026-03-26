@@ -24,7 +24,7 @@ namespace WinFormApp
         {
             richTextBoxCipher.Text = "";
             richTextBoxGenKey.Text = "";
-            
+
         }
         private void UpdateCharCnt()
         {
@@ -99,7 +99,10 @@ namespace WinFormApp
                 streamCipher.PlainText = new BitArray(plainText.Select(c => c == '1').ToArray());
 
                 streamCipher.CreateBitRegester(richTextBoxRegister.Text);
+
+                //KEY (shift to left, lowest - right bit):
                 streamCipher.CreateBitKey(streamCipher.PlainText.Length);
+
                 richTextBoxGenKey.Text = BitArrayToStr(streamCipher.BitKey);
 
                 streamCipher.Cipher();
@@ -133,6 +136,18 @@ namespace WinFormApp
             {
                 labelFileInfo.Text = "Не получилось сохранить данные";
             }
+        }
+
+        private void buttonInversKey_Click(object sender, EventArgs e)
+        {
+            richTextBoxRegister.Text = ReversStr(richTextBoxRegister.Text);
+        }
+
+        private string ReversStr(string text)
+        {
+            char[] arr = text.ToCharArray();
+            Array.Reverse(arr);
+            return new string(arr);
         }
     }
 }

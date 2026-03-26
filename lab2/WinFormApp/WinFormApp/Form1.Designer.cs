@@ -30,6 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             panelRegister = new Panel();
+            buttonInversKey = new Button();
             buttonHandle = new Button();
             labelCounter = new Label();
             richTextBoxRegister = new RichTextBox();
@@ -55,6 +56,7 @@
             // panelRegister
             // 
             panelRegister.BackColor = SystemColors.AppWorkspace;
+            panelRegister.Controls.Add(buttonInversKey);
             panelRegister.Controls.Add(buttonHandle);
             panelRegister.Controls.Add(labelCounter);
             panelRegister.Controls.Add(richTextBoxRegister);
@@ -65,6 +67,18 @@
             panelRegister.Name = "panelRegister";
             panelRegister.Size = new Size(1574, 425);
             panelRegister.TabIndex = 0;
+            // 
+            // buttonInversKey
+            // 
+            buttonInversKey.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            buttonInversKey.Cursor = Cursors.Hand;
+            buttonInversKey.Location = new Point(1209, 79);
+            buttonInversKey.Name = "buttonInversKey";
+            buttonInversKey.Size = new Size(274, 45);
+            buttonInversKey.TabIndex = 5;
+            buttonInversKey.Text = "Инвертировать";
+            buttonInversKey.UseVisualStyleBackColor = true;
+            buttonInversKey.Click += buttonInversKey_Click;
             // 
             // buttonHandle
             // 
@@ -118,7 +132,7 @@
             menuStrip1.Items.AddRange(new ToolStripItem[] { файлToolStripMenuItem, toolStripMenuItemInstruction });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(1574, 42);
+            menuStrip1.Size = new Size(1574, 40);
             menuStrip1.TabIndex = 0;
             menuStrip1.Text = "menuStrip1";
             // 
@@ -126,14 +140,14 @@
             // 
             файлToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { toolStripMenuItemOpen, toolStripMenuItemSave });
             файлToolStripMenuItem.Name = "файлToolStripMenuItem";
-            файлToolStripMenuItem.Size = new Size(90, 38);
+            файлToolStripMenuItem.Size = new Size(90, 36);
             файлToolStripMenuItem.Text = "Файл";
             // 
             // toolStripMenuItemOpen
             // 
             toolStripMenuItemOpen.Name = "toolStripMenuItemOpen";
             toolStripMenuItemOpen.ShortcutKeys = Keys.Control | Keys.O;
-            toolStripMenuItemOpen.Size = new Size(359, 44);
+            toolStripMenuItemOpen.Size = new Size(343, 44);
             toolStripMenuItemOpen.Text = "Открыть";
             toolStripMenuItemOpen.Click += toolStripMenuItemOpen_Click;
             // 
@@ -142,14 +156,14 @@
             toolStripMenuItemSave.Enabled = false;
             toolStripMenuItemSave.Name = "toolStripMenuItemSave";
             toolStripMenuItemSave.ShortcutKeys = Keys.Control | Keys.S;
-            toolStripMenuItemSave.Size = new Size(359, 44);
+            toolStripMenuItemSave.Size = new Size(343, 44);
             toolStripMenuItemSave.Text = "Сохранить";
             toolStripMenuItemSave.Click += toolStripMenuItemSave_Click;
             // 
             // toolStripMenuItemInstruction
             // 
             toolStripMenuItemInstruction.Name = "toolStripMenuItemInstruction";
-            toolStripMenuItemInstruction.Size = new Size(165, 38);
+            toolStripMenuItemInstruction.Size = new Size(165, 36);
             toolStripMenuItemInstruction.Text = "Инструкция";
             toolStripMenuItemInstruction.Click += toolStripMenuItemInstruction_Click;
             // 
@@ -283,5 +297,6 @@
         private Label labelFileInfo;
         private Label label1;
         private RichTextBox richTextBoxCipher;
+        private Button buttonInversKey;
     }
 }
